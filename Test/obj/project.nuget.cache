@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JV4IVnQY70QrPR2m/CQpZn1O+FtYJLf6KJExomJ0NhSRQPBVpy20ZeWYr3ZcObf+NW/3vRNY6SVYGGRedg55Aw==",
+  "dgSpecHash": "2a4HqQ8ECd+AzcijKe3E5DI9IU+kwIFm3i+19nxHRoTZTOxuJtmbKrpVvorFDbO4NkcouJMTfa64Ey2IEf+40g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chemo\\Documents\\Learn\\git\\Test\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\chemo\\Documents\\Learn\\git\\pull Test\\Test\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chemo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\chemo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -2810,11 +2810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chemo\\Documents\\Learn\\git\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\chemo\\Documents\\Learn\\git\\pull Test\\Test\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\chemo\\Documents\\Learn\\git\\Test\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\chemo\\Documents\\Learn\\git\\pull Test\\Test\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\chemo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chemo\\Documents\\Learn\\git\\Test\\Test\\obj\\",
+      "outputPath": "C:\\Users\\chemo\\Documents\\Learn\\git\\pull Test\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
